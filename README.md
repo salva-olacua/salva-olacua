@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: React Front End
 - 💬 Ask me about: anime
 - 📫 How to reach me: salvaolacua@gmail.com
-- ⚡ Fun fact: I like to play chess
+- ⚡ Fun fact: I like to play chess, also i like to listen Japanese music
 
-SOME OF TECHNOLOGIES I USE
+## Technologies and tools I use
 
 <p> 
   <img src="https://img.icons8.com/color/40/000000/redux.png" title="REDUX"/>
@@ -25,7 +25,11 @@ SOME OF TECHNOLOGIES I USE
   <img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JAVASCRIPT"/>
   <img src="https://img.icons8.com/color/40/000000/nodejs.png" title="NODE"/>
   <img src="https://img.icons8.com/color/40/000000/git.png" title="GIT"/>
-  
+  <img src="https://img.icons8.com/color/40/000000/graphql.png" title="GRAPHQL"/>
+  <img src="https://img.icons8.com/color/40/000000/figma--v1.png" title="FIGMA"/>
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/40/000000/external-sql-web-hosting-flaticons-lineal-color-flat-icons.png" title="SQL"/>
+  <img src="https://img.icons8.com/color/40/000000/typescript.png" title="TYPESCRIPT"/>
+  <img src="https://img.icons8.com/color/40/000000/docker.png" title="DOCKER"/>
 </p>
   
 
