@@ -6,13 +6,29 @@
 **salva-olacua/salva-olacua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ... React.js
+- 🌱 I’m currently learning ... Next.js
+- 👯 I’m looking to collaborate on ... React Front End
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+SOME OF TECHNOLOGIES I USE
+
+<p> 
+  <img src="https://img.icons8.com/color/40/000000/redux.png" title="REDUX"/>
+  <img src="https://img.icons8.com/office/40/000000/react.png" title="REACT"/> 
+  <img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JAVASCRIPT"/>
+  <img src="https://img.icons8.com/color/40/000000/nodejs.png" title="NODE"/>
+  <img src="https://img.icons8.com/color/40/000000/git.png" title="GIT"/>
+  
+</p>
+  
+
+## Some Statistics About Me
+![Salva-olcua's GitHub stats](https://github-readme-stats.vercel.app/api?username=salva-olacua&count_private=true&show_icons=true&theme=tokyonight)
