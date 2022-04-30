@@ -8,13 +8,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... React.js
-- 🌱 I’m currently learning ... Next.js
-- 👯 I’m looking to collaborate on ... React Front End
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: React.js
+- 🌱 I’m currently learning: Next.js
+- 👯 I’m looking to collaborate on: React Front End
+- 💬 Ask me about: anime
+- 📫 How to reach me: salvaolacua@gmail.com
+- ⚡ Fun fact: I like to play chess
 
 SOME OF TECHNOLOGIES I USE
 
