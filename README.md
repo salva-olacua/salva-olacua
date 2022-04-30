@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: Next.js
 - 👯 I’m looking to collaborate on: React Front End
 - 💬 Ask me about: anime
-- 📫 How to reach me: salvaolacua@gmail.com
 - ⚡ Fun fact: I like to play chess, also i like to listen Japanese music
+
+## How to reach me 
+<p>
+  <a href="mailto:salvaolacua@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png" title="GMAIL"/></a>
+  <a href="https://www.linkedin.com/in/salvador-olacua-530a3a177/"><img src="https://img.icons8.com/fluency/40/000000/linkedin.png" title="LINKEDIN"/></a>
+  <a href="https://github.com/salva-olacua"><img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" title="GITHUB"/></a>
+</p>
 
 ## Technologies and tools I use
 
