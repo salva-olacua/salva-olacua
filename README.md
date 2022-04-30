@@ -8,11 +8,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: React.js
-- 🌱 I’m currently learning: Next.js
-- 👯 I’m looking to collaborate on: React Front End
-- 💬 Ask me about: anime
-- ⚡ Fun fact: I like to play chess, also i like to listen Japanese music
+- 🔭 I’m currently working on: React.js.
+- 🌱 I’m currently learning: Next.js.
+- 👯 I’m looking to collaborate on: React Front End.
+- 💬 Ask me about: anime.
+- ⚡ Fun fact: I like to play chess, i also like to listen to Japanese music.
 
 ## How to reach me 
 <p>
