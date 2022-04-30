@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![small-emiya_kiritsugu_child](https://user-images.githubusercontent.com/18218718/166112564-8ce5a55d-3bc5-4986-a688-3bc30ab74271.png)
+
 <!--
 **salva-olacua/salva-olacua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
